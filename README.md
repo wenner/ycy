@@ -45,3 +45,4 @@ Email：helloworldccyy@163.com
 ## 相关
 ### 动画实现
 https://github.com/adzierzanowski/animator
+https://github.com/g-mu/16x16-Animator
