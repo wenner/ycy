@@ -40,3 +40,8 @@ print("你好，村民和月芽们!")
 Email：helloworldccyy@163.com
 
 重要的事情请发邮件联系
+
+
+## 相关
+### 动画实现
+https://github.com/adzierzanowski/animator
